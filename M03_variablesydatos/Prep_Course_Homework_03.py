@@ -7,7 +7,8 @@
 
 # In[7]:
 
-
+ENTERO1 = 25
+print(ENTERO1)
 
 
 # 2) Imprimir el tipo de dato de la constante 8.5
